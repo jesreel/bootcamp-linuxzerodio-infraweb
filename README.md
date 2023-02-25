@@ -15,5 +15,5 @@
 * Baixar pacote da aplicação web no diretório /tmp
 * Descompactar o pacote da aplicação no diretório /tmp
 * Copiar o diretório da aplicação que foi descompactado para /var/www/html
-* Excluir os arquivos temporários (pacate.zip e diretorio descompactado) do diretório /tmp 
+* Excluir os arquivos temporários (pacote.zip e diretório descompactado) do diretório /tmp 
 
